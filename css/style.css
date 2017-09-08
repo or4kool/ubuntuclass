@@ -216,6 +216,12 @@ nav {
   .content-area .page-header {
     text-align: center; }
 
+.blog-area {
+  margin: 100px 0px; }
+  .blog-area .blog-extract {
+    font-weight: bold;
+    font-size: 22px; }
+
 .character {
   float: right; }
   .character img {
