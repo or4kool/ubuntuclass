@@ -257,6 +257,9 @@ nav {
   .blog .single-blog:hover {
     box-shadow: 5px 5px 29px 0px rgba(0, 0, 0, 0.37);
     transition: 0.4s all ease-in; }
+    .blog .single-blog:hover .blog-img-cover {
+      background: rgba(0, 0, 0, 0.3);
+      transition: 0.4s all ease-in; }
   .blog .blog-info {
     position: absolute;
     top: 0px;
@@ -288,7 +291,8 @@ nav {
     top: 0px;
     bottom: 0px;
     left: 0px;
-    right: 0px; }
+    right: 0px;
+    transition: 0.4s all ease-out; }
 
 footer {
   padding: 10px 0px;
