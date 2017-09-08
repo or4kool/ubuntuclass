@@ -426,3 +426,9 @@ footer{
 		color: #585858;
 	}
 }
+
+@media only screen and (max-width: 1366px) {
+    .intro{
+		height: 500px;
+	}
+}
