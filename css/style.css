@@ -171,6 +171,12 @@ nav {
   margin: -15px;
   background-position: center; }
 
+.blog-bg {
+  background: url(../img/blog.jpeg);
+  background-size: cover;
+  margin: -15px;
+  background-position: center; }
+
 .about-word {
   height: 600px;
   display: flex;
